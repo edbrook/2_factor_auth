@@ -1,1 +1,1 @@
-# 2_factor_auth
+# 2 Factor Authentication
